@@ -10,3 +10,4 @@ nextcloud/all-in-one
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 rommapp/romm
 jellyfin/jellyfin
+linuxserver/jackett
