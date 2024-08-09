@@ -12,4 +12,4 @@ rommapp/romm
 jellyfin/jellyfin
 linuxserver/jackett
 nyanmisaka/jellyfin
-jxxghp/nas-tools
+nastool/nas-tools
