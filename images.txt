@@ -13,3 +13,4 @@ jellyfin/jellyfin
 linuxserver/jackett
 nyanmisaka/jellyfin
 nastool/nas-tools
+allanpk716/chinesesubfinder
