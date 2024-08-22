@@ -4,6 +4,7 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 linuxserver/transmission
 linuxserver/qbittorrent
+linuxserver/qbittorrent:4.6.5
 linuxserver/plex
 nextcloud/all-in-one
 --platform=linux/amd64 redis:7.0.15-alpine3.20
