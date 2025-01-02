@@ -17,3 +17,4 @@ nastool/nas-tools
 allanpk716/chinesesubfinder
 cnk3x/xunlei
 jxxghp/moviepilot
+kxhubs/javsp
