@@ -7,4 +7,5 @@ kxhubs/javsp:0.3
 metacubex/mihomo:latest
 metacubex/clash-meta:Alpha
 haishanh/yacd:master
-ou268067297/metacubexd:latest
+docker.io/metacubex/mihomo:Alpha
+ghcr.io/metacubex/metacubexd
