@@ -4,3 +4,6 @@ linuxserver/qbittorrent
 cnk3x/xunlei
 jxxghp/moviepilot
 kxhubs/javsp:0.3
+metacubex/mihomo:latest
+metacubex/clash-meta:Alpha
+haishanh/yacd:master
