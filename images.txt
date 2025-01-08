@@ -4,7 +4,6 @@ linuxserver/qbittorrent
 cnk3x/xunlei
 jxxghp/moviepilot
 kxhubs/javsp:0.3
-haishanh/yacd:master
 metacubex/mihomo:Alpha
-metacubex/metacubexd
+ghcr.io/metacubex/metacubexd
 hslr/sun-panel:latest
