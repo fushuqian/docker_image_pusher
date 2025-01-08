@@ -7,3 +7,4 @@ kxhubs/javsp:0.3
 haishanh/yacd:master
 metacubex/mihomo:Alpha
 metacubex/metacubexd
+hslr/sun-panel:latest
