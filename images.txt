@@ -7,3 +7,4 @@ kxhubs/javsp:0.3
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
 hslr/sun-panel:latest
+vaultwarden/server:latest
