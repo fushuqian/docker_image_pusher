@@ -9,3 +9,5 @@ metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
 hslr/sun-panel:latest
 vaultwarden/server:latest
+rustdesk/rustdesk-server:latest
+linuxserver/rustdesk
