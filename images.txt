@@ -2,7 +2,7 @@ kasmweb/nginx
 linuxserver/transmission
 linuxserver/qbittorrent
 cnk3x/xunlei
-jxxghp/moviepilot
+jxxghp/moviepilot:latest
 jxxghp/nas-tools
 kxhubs/javsp:0.3
 metacubex/mihomo:Alpha
