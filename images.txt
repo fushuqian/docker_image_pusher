@@ -3,8 +3,7 @@ linuxserver/transmission
 linuxserver/qbittorrent
 cnk3x/xunlei
 jxxghp/moviepilot:latest
-jxxghp/moviepilot-v2
-jxxghp/nas-tools
+jxxghp/moviepilot-v2:latest
 kxhubs/javsp:0.3
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
